@@ -1,0 +1,40 @@
+body {
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+  margin: 20px 100px 20px 100px;
+  padding: 25px 50px 25px 50px;
+  background-color: #cf988d;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  font-size: 2.25rem;
+  margin-bottom: -10px;
+}
+
+hr {
+  border: 2px solid black;
+  margin-bottom: -10px;
+}
+
+.contact {
+  font-size: 0.65rem;
+}
+
+.company {
+  margin-bottom: -10px;
+}
+
+.job {
+  font-size: 0.85rem;
+}
